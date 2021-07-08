@@ -52,6 +52,8 @@ section{
     width: 90%;
     background-color: gray;
     font-family: cursive;
+    font-size: small;
+    font-weight: bold;
     overflow: auto;
     margin-top: 10px;
     margin-right: auto;
@@ -62,7 +64,7 @@ section{
 section>div{
     text-align:left; 
     padding: 10px;
-    margin-top: 10px;  
+    margin-top: 20px;  
 }
 @media (min-width: 992px){
     .desktop{
